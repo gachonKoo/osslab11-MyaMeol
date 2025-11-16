@@ -1,2 +1,1 @@
-c = 5.0
-area = 314.1592653589793
+__all__ = ['pythagoras', 'circle']
